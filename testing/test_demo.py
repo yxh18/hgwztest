@@ -8,3 +8,7 @@ def test_answer():
 
 def test_anseer():
     assert 1 == 3
+
+
+def test_anseer1():
+    assert 1 == 1
